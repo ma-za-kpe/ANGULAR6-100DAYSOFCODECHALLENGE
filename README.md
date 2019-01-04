@@ -8,7 +8,7 @@ by Nate Murray,  Felipe Coury, Ari Lerner, Carlos Taborda ".
 
 - All the heroku links to the projects are added below.
 
-- Run locally by 
+### Run locally by 
  + clone the projects
  + npm install
  + ng serve --o
