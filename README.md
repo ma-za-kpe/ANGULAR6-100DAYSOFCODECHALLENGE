@@ -9,4 +9,4 @@ by Nate Murray,  Felipe Coury, Ari Lerner, Carlos Taborda ".
 
 # PROJECTS
 1. ANGULAR HELLOWORLD PROJECT
-2. [ANGULAR REDDIT CLONE] (https://www.google.com)
+2. [ANGULAR REDDIT CLONE](https://www.google.com)
