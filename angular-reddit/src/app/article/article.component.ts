@@ -12,9 +12,7 @@ export class ArticleComponent implements OnInit {
   @HostBinding("attr.class") cssClass = "row";
   @Input() article: Article;
 
-  constructor() {
-    // this.article = new Article("Movie Planet", "https://movie-planet.com", 10);
-  }
+  constructor() {}
 
   ngOnInit() {}
 
