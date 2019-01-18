@@ -1,1 +1,6 @@
 <router-outlet></router-outlet>
+<div class="inventory-app">
+  <products-list [productList]="products" (onProductSelected)="productWasSelected($event)">
+
+  </products-list>
+</div>
